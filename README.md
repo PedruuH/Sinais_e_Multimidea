@@ -1,1 +1,33 @@
-# Sinais_e_Multimidea
+# Sinais e Multimidea
+
+### Pré-requisitos
+
+Realize a instalação do Python3.8 (https://www.python.org/).
+Ralize a instalação das bibliotcas utilizadas no projeto por meio do pip.
+
+```
+pip install pyqt5; opencv-python; numpy; imutils; matplotlib; scipy
+```
+
+### Introdução
+
+O pojeto implementado em Python para a matéria de Sinais e Multimidea (https://github.com/iperetta/FEELT31526). 
+
+### GUI projeto
+
+Ao executar o código apresentará a interface abaixo.
+
+![alt text](https://github.com/PedruuH/Sinais_e_Multimidea/blob/main/image.PNG?raw=true)
+
+# Licensing
+Copyright 2020 Luiz Felipe Gonçalves Barbosa Viana, Matheus Cleber Silva Guerra e Pedro Henrique Rodrigues Marques Dos Santos.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
