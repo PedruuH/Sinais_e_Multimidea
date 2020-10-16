@@ -2,7 +2,7 @@
 
 ### Pré-requisitos
 
-Realize a instalação do Python3.8 (https://www.python.org/).
+Realize a instalação do [Python3.8](https://www.python.org/).
 Ralize a instalação das bibliotcas utilizadas no projeto por meio do pip.
 
 ```
@@ -11,7 +11,7 @@ pip install pyqt5; opencv-python; numpy; imutils; matplotlib; scipy
 
 ### Introdução
 
-O pojeto implementado em Python para a matéria de Sinais e Multimidea (https://github.com/iperetta/FEELT31526). 
+O pojeto implementado em Python para a matéria de [Sinais e Multimidea](https://github.com/iperetta/FEELT31526). 
 
 ### GUI projeto
 
